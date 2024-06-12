@@ -6,7 +6,7 @@ import Search from './Search';
 import '../App.css';
 
 
-const MOVIE_API_URL = "https://www.omdbapi.com/?s='K.G.F: Chapter 1'&apikey=64f5bb53";
+const MOVIE_API_URL = "https://www.omdbapi.com/?s='K.G.F: Chapter 1'&apikey=";
 
 
 const App = () =>
